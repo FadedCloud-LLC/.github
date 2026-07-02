@@ -186,12 +186,24 @@ Private repositories may include:
 
 ## Contact
 
+For development inquiries, plugin work, server-specific systems, or collaboration requests:
+
+**Email:** [Contact@FadedCloud.com](mailto:Contact@FadedCloud.com)  
+**Discord Account ID:** `899051138412871680`  
+**Support / Donations:** [buymeacoffee.com/aponder.dev](https://buymeacoffee.com/aponder.dev)
+
 <p align="left">
+  <a href="mailto:Contact@FadedCloud.com">
+    <img src="https://img.shields.io/badge/Email-Contact@FadedCloud.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://github.com/FadedCloud-LLC">
     <img src="https://img.shields.io/badge/GitHub-FadedCloud--LLC-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/APonder-Dev">
     <img src="https://img.shields.io/badge/Developer-APonder--Dev-8A2BE2?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://buymeacoffee.com/aponder.dev">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-aponder.dev-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
 </p>
 
