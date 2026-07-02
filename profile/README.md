@@ -189,7 +189,7 @@ Private repositories may include:
 For development inquiries, plugin work, server-specific systems, or collaboration requests:
 
 **Email:** [Contact@FadedCloud.com](mailto:Contact@FadedCloud.com)  
-**Discord Account ID:** `899051138412871680`  
+**Discord:** `aponder.dev`  
 **Support / Donations:** [buymeacoffee.com/aponder.dev](https://buymeacoffee.com/aponder.dev)
 
 <p align="left">
