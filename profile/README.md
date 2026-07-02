@@ -144,15 +144,15 @@ FadedCloud-LLC projects aim to follow these practices:
 
 ---
 
-## Organization Activity
+## Developer Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FadedCloud-LLC&theme=react-dark&custom_title=FadedCloud-LLC%20Development%20Activity&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=APonder-Dev&theme=react-dark&custom_title=APonder-Dev%20Development%20Activity&hide_border=true" />
 </p>
 
 <p align="center">
   <sub>
-    Most production Minecraft plugin repositories are private because they are server-specific, client-specific, or production-focused projects.
+    Public activity does not fully represent private development work under FadedCloud-LLC.
   </sub>
 </p>
 
